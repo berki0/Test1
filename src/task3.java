@@ -13,6 +13,7 @@ public class task3 {
             System.out.println();
         }
     }
+    //гитхуб нешо сссии
     public static void main(String[] args) {
         //Напишете програма която отпечатва триъгълник със страна
         //n. Пример: n =3
