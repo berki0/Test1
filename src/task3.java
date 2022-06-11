@@ -23,5 +23,9 @@ public class task3 {
         System.out.println("Enter number to made triangle: ");
         int n= scanner.nextInt();
         printTriangle(n);
+        System.out.println("safafgs");
+        System.out.println("safafgasdisua");
+        System.out.println("safgayugxaysfcyasgc");
+        System.out.println("TEST COMMIT ");
     }
 }
